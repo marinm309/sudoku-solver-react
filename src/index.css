@@ -144,6 +144,11 @@ option{
     width: calc(70vw / 16);
     height: unset;
   }
+
+  .phone-nums ul button{
+    width: 20px;
+    height: 20px;
+  }
 }
 
 @media only screen and (max-width: 650px) {
