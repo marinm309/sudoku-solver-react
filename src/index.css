@@ -170,8 +170,8 @@ option{
   }
 }
 
-@media only screen and (max-width: 600px){
+/* @media only screen and (max-width: 600px){
   .select-container {
     margin-bottom: calc(50vh - 75%);
   }
-}
+} */
